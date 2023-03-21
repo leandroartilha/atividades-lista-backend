@@ -1,25 +1,37 @@
 ﻿<Properties StartupConfiguration="{4FB5D4A7-E018-4BF4-9ED7-D22FC64E056A}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="AtividadesApi/Controllers/AtividadeController.cs">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AtividadesApi/Models/Prioridade.cs">
     <Files>
-      <File FileName="AtividadesApi/Controllers/AtividadeController.cs" Line="1" Column="1" />
+      <File FileName="AtividadesApi/Controllers/AtividadeController.cs" Line="16" Column="1" />
+      <File FileName="AtividadesApi/appsettings.json" Line="3" Column="125" />
+      <File FileName="AtividadesApi/Program.cs" Line="21" Column="1" />
+      <File FileName="AtividadesApi/Models/Atividade.cs" Line="19" Column="51" />
+      <File FileName="AtividadesApi/Contexto/AppDbContext.cs" Line="9" Column="26" />
+      <File FileName="AtividadesApi/Migrations/20230314012815_InitialMigration.cs" Line="1" Column="1" />
+      <File FileName="AtividadesApi/Migrations/20230314014309_AddAtividadeToContext.cs" Line="1" Column="1" />
+      <File FileName="AtividadesApi/Models/Prioridade.cs" Line="8" Column="9" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="AtividadesApi" expanded="True">
-            <Node name="AtividadesApi" expanded="True" selected="True">
+            <Node name="AtividadesApi" expanded="True">
+              <Node name="Contexto" expanded="True" />
               <Node name="Controllers" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="Prioridade.cs" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AtividadesApi PreferredExecutionTarget="/Applications/Safari.app" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.AtividadesApi PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
 </Properties>
